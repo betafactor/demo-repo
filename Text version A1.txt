@@ -8,4 +8,6 @@ On their own, Arrays can be used to solve many interesting problems.
 Arrays come up very often in interview problems, and so being a guru with them is a must!
 
 
-In this Explore Card, we'll introduce Arrays and solve some cool problems with them. This Card is beginner friendly, and we've provided lots of code snippets in Java to help you understand. Each topic begins with informative articles, followed by real interview problems for you to practice on.
+In this Explore Card, we'll introduce Arrays and solve some cool problems with them. 
+This Card is beginner friendly, and we've provided lots of code snippets in Java to help you understand. 
+Each topic begins with informative articles, followed by real interview problems for you to practice on.
