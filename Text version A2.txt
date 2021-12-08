@@ -1,0 +1,3 @@
+In this Explore Card, we'll introduce Arrays and solve some cool problems with them. 
+This Card is beginner friendly, and we've provided lots of code snippets in Java to help you understand. 
+Each topic begins with informative articles, followed by real interview problems for you to practice on.
