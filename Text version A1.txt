@@ -1,4 +1,4 @@
-Introduction
+Introduction to Arrays
 
 Arrays are a simple data structure for storing lots of similar items. 
 They exist in all programming languages, and are used as the basis for most other data structures. 
